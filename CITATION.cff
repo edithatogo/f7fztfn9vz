@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: If you use this work, please cite it using these metadata and identify the
+  commit or release used.
+title: io.github.edithatogo namespace verification
+authors:
+- name: f7fztfn9vz project
+repository-code: https://github.com/edithatogo/f7fztfn9vz
+url: https://github.com/edithatogo/f7fztfn9vz
+preferred-citation:
+  type: generic
+  title: io.github.edithatogo namespace verification
+  authors:
+  - name: f7fztfn9vz project
+  url: https://github.com/edithatogo/f7fztfn9vz
